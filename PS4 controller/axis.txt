@@ -1,0 +1,11 @@
+X -> X axis of left stick
+Y -> inverted Y axis of left stick
+
+Z -> X axis of right stick
+R -> inverted Y axis of right stick
+
+U -> L2 : more pressed,more positive
+V -> R2 : more pressed,more positive
+
+PovX -> left and right Dpad
+PovY -> down and up Dpad

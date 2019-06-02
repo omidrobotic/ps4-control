@@ -1,0 +1,9 @@
+#ifndef SWITCHES_H
+#define SWITCHES_H
+
+#define NUM_OF_TEAM 1	///1 or 2
+#define NUM_OF_TEAM_ROBOT 1
+
+#define NUM_OF_CONTROLLERS NUM_OF_TEAM_ROBOT*NUM_OF_TEAM
+
+#endif // !SWITCHES_H
